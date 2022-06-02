@@ -1,0 +1,26 @@
+.input-form {
+    background-color: gold;
+    margin: 20px;
+    padding: 5px;
+    text-align: center;
+}
+
+.input-form__input-name {
+    color: darkred;
+    font-weight: bold;
+    margin: 5px;
+}
+
+.submit-button {
+    margin: 20px 5px 5px 0px;
+    padding: 5px 5px 5px 5px;
+    color: wheat;
+    background-color: maroon;
+    border-color: maroon;
+    border-radius: 5px;
+}
+.submit-button_clicked {
+    background-color: blue;
+    border-color: blue;
+}
+
